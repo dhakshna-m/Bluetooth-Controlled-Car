@@ -31,3 +31,28 @@ Academic Project
 
 ## Note
 The component list and working details should be verified against the actual project hardware.
+## Arduino Code
+
+The Arduino program is available in `bluetooth_car.ino`.
+
+## Software and Tools
+- Arduino IDE
+- Embedded C++
+- Bluetooth communication
+- Motor driver control
+
+## Features
+- Wireless control using Bluetooth
+- Forward and backward movement
+- Left and right turning
+- Stop command
+
+## Learning Outcomes
+- Arduino programming basics
+- Bluetooth communication
+- DC motor control
+- Hardware interfacing
+
+## Note
+This repository contains a sample implementation. Verify the code and hardware connections against the actual project.
+
